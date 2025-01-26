@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular
+dist/
+out-tsc/
+coverage/
+.angular/
+.angular-cache/
+
+# ASP.NET Core
+bin/
+obj/
+*.db
+*.bak
+*.pdb
+*.log
+*.user
+*.lock.json
+*.vs/
+.vscode/
+.vscode-test/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# IDEs and editors
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+.vs
+.vscode
